@@ -17,9 +17,9 @@ public class TipoChar {
     public static void main(String[] args) {
         char caracter = 'b';
         System.out.println("caracter = " + caracter);
-        char caracter2= '\u0021';
+        char caracter2 = '\u0021';
         System.out.println("caracter2 = " + caracter2);
-        char caracter3=33;
+        char caracter3 = 33;
         System.out.println("caracter3 = " + caracter3);
         char caracter4 = '!';
         System.out.println("caracter4 = " + caracter4);
